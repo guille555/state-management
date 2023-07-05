@@ -1,0 +1,22 @@
+.listPersons {
+  margin-left: 1.5rem;
+}
+
+.personContainer {
+  width: 25%;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-left: 0.75rem;
+  border-radius: 0.25rem;
+  background-color: #303031;
+}
+
+.personName {
+  display: block;
+  padding: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.checkbox {
+  margin-right: 0.25rem;
+}

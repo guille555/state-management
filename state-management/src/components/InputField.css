@@ -1,0 +1,32 @@
+.field {
+  padding: 0.5rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.fieldText {
+  border: none;
+  outline: none;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  width: 80%;
+}
+
+.button {
+  padding: 0.5rem;
+  margin-right: 0.25rem;
+  border: none;
+  outline: none;
+  border-radius: 0.25rem;
+  background-color: #717171;
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+.button:hover {
+  background-color: #D3D3D3;
+  color: #1E1E1E;
+}

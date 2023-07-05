@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "OfficeCodePro";
+  src: url("./assets/fonts/OfficeCodeProD-Bold-webfont.woff") format("woff");
+}
+
+body {
+  background-color: #222;
+  color: white;
+  height: 100vh;
+  font-family: "OfficeCodePro";
+  font-weight: normal;
+}
